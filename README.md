@@ -1,8 +1,6 @@
 # Wstęp do Systemów Sztucznej Inteligencji
 
-## Spis Treści
-
-### Laboratoria
+### Projekty
 
 - [Projekty](https://github.com/tukarp/Wstep-Do-Systemow-Sztucznej-Inteligencji/blob/main/Projekty)
 - [Projekt 1 - Czateria](https://github.com/tukarp/Wstep-Do-Systemow-Sztucznej-Inteligencji/blob/main/Projekty/Projekt%2001%20-%20Czateria)
